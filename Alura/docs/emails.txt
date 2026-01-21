@@ -1,0 +1,30 @@
+(1001) Email 1: Assunto: Problema com entrega. Corpo: Fiz um pedido há mais de uma semana e ainda não recebi nenhuma atualização sobre o envio. Gostaria de saber se houve algum problema com a entrega.
+
+(1002) Email 2: Assunto: Pedido de reembolso. Corpo: Recebi o produto errado e gostaria de solicitar o reembolso do valor pago, já que não corresponde ao que foi comprado.
+
+(1003) Email 3: Assunto: Elogio ao atendimento. Corpo: Quero agradecer ao suporte técnico pelo excelente atendimento e rapidez na resolução do meu problema.
+
+(1004) Email 4: Assunto: Reclamação sobre produto com defeito. Corpo: O produto chegou com defeito. A tela está trincada e ele não liga. Preciso de uma solução urgente.
+
+(1005) Email 5: Assunto: Solicitação de troca de produto. Corpo: Gostaria de trocar o produto recebido por outro modelo, pois o tamanho não ficou adequado.
+
+(1006) Email 6: Assunto: Dúvida sobre funcionalidades. Corpo: Tenho dúvidas sobre como utilizar algumas funções do produto. Existe algum manual mais detalhado?
+
+(1007) Email 7: Assunto: Pedido de nota fiscal. Corpo: Poderiam me enviar a nota fiscal da minha última compra? Preciso para fins de garantia.
+
+(1008) Email 8: Assunto: Cancelamento de compra. Corpo: Quero cancelar a compra realizada ontem. Ainda não recebi o produto e gostaria de interromper o processo.
+
+(1009) Email 9: Assunto: Confirmação de pagamento. Corpo: Efetuei o pagamento via boleto bancário e gostaria de confirmar se já foi registrado no sistema.
+
+(1010) Email 10: Assunto: Sugestão de melhoria. Corpo: Seria interessante se o aplicativo permitisse salvar favoritos. Fica a sugestão para futuras versões.
+
+(1011) Email 11: Assunto: Problema com acesso à conta. Corpo: Não estou conseguindo acessar minha conta. A senha foi alterada sozinha e não recebo o e-mail de recuperação.
+
+(1012) Email 12: Assunto: Atualização de cadastro. Corpo: Preciso atualizar meu endereço de entrega. Como posso fazer isso antes do envio do pedido?
+
+(1013) Email 13: Assunto: Agradecimento pelo suporte. Corpo: Agradeço pelo suporte prestado. Resolveram meu problema com agilidade e cordialidade.
+
+(1014) Email 14: Assunto: Avaliação do serviço. Corpo: Gostaria de deixar registrado que estou muito satisfeito com a plataforma. Fácil de usar e eficiente.
+
+(1015) Email 15: Assunto: Dificuldade com login. Corpo: Estou tentando fazer login e o sistema informa que meu e-mail não está cadastrado. Já fiz compras antes com esse e-mail.
+
